@@ -1,5 +1,15 @@
 # Titanic-AirBnB-Data-Analytics-Projects
 Titanic survival analysis &amp; Airbnb price prediction projects
+## Featured Projects
+1. [Titanic Survival Analysis](Titanic-Analysis) - Logistic regression modeling of maritime disaster outcomes
+2. [Airbnb Price Modeling](Airbnb-Price-Modeling) - Vancouver rental price prediction engine
+
+## Technical Stack
+**Languages:** R, SQL  
+**Tools:** GLM, Linear Regression, dplyr  
+**Cloud:** AWS S3 (simulated), GitHub Actions  
+
+[![R Badge](https://img.shields.io/badge/R-Expert-blue)](https://www.r-project.org)
 
 # Data Analytics Portfolio Projects
 
