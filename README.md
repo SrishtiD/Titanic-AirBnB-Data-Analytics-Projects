@@ -1,6 +1,6 @@
 # Titanic-AirBnB-Data-Analytics-Projects
 
-## Featured Projects (Titanic survival analysis &amp; Airbnb price prediction projects)
+## Featured Master's Data Science Projects (Titanic survival analysis &amp; Airbnb price prediction projects)
 1. Titanic Survival Analysis - Logistic regression modeling of maritime disaster outcomes
 2. Airbnb Price Modeling - Vancouver rental price prediction engine
 
